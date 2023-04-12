@@ -8,7 +8,7 @@ let case2 = "()[]{}";
 let case3 = "(]"; 
 let case4 = "(){}}{"; 
 
-var isValid = function(s) {
+var isValid1 = function(s) {
 
     let check1 = false; 
     let check2 = false; 
